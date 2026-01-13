@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="bugatti-tourbillon" size="6.000000 3.337500" />
+    <ImageTarget name="India" size="6.000000 7.389163" />
     <ImageTarget name="Earth" size="6.000000 6.009375" />
   </Tracking>
 </QCARConfig>
